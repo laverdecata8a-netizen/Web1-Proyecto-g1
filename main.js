@@ -1,0 +1,17 @@
+const listaAnimales = [
+  "Siamés",
+  "Persa",
+  "Maine Coon",
+  "Ragdoll",
+  "Bengalí",
+  "British Shorthair",
+  "Scottish Fold",
+  "Sphynx",
+  "Angora turco",
+  "Azul ruso",
+  "Abisinio",
+  "Birmano",
+  "Bombay",
+  "Himalayo",
+  "Exótico de pelo corto",
+];
